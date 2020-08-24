@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dLJtzs4fRRlRJJnPX7WtNPtfAO2h6ex4Ld34ATs4CgzsgnqbFoMYCT/fGn3TEpuvykxKewyRQbhJR028c7aUrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\beatr\\OneDrive\\FTT\\EC10\\Programação Mobile\\PrimeiroPrograma\\PrimeiroPrograma\\PrimeiroPrograma.iOS\\PrimeiroPrograma.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

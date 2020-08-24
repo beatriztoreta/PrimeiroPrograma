@@ -1,0 +1,7 @@
+C:\Users\beatr\OneDrive\FTT\EC10\Programação Mobile\PrimeiroPrograma\PrimeiroPrograma\PrimeiroPrograma.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\beatr\OneDrive\FTT\EC10\Programação Mobile\PrimeiroPrograma\PrimeiroPrograma\PrimeiroPrograma.Android\obj\Debug\90\build.props
+C:\Users\beatr\OneDrive\FTT\EC10\Programação Mobile\PrimeiroPrograma\PrimeiroPrograma\PrimeiroPrograma.Android\obj\Debug\90\adb.props
+C:\Users\beatr\OneDrive\FTT\EC10\Programação Mobile\PrimeiroPrograma\PrimeiroPrograma\PrimeiroPrograma.Android\obj\Debug\90\PrimeiroPrograma.Android.csprojAssemblyReference.cache
+C:\Users\beatr\OneDrive\FTT\EC10\Programação Mobile\PrimeiroPrograma\PrimeiroPrograma\PrimeiroPrograma.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+C:\Users\beatr\OneDrive\FTT\EC10\Programação Mobile\PrimeiroPrograma\PrimeiroPrograma\PrimeiroPrograma.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\beatr\OneDrive\FTT\EC10\Programação Mobile\PrimeiroPrograma\PrimeiroPrograma\PrimeiroPrograma.Android\obj\Debug\90\res.flag
